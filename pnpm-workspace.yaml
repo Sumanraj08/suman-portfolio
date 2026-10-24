@@ -1,0 +1,4 @@
+allowedDeprecatedVersions:
+  three-mesh-bvh: "*"
+allowBuilds:
+  esbuild: true
